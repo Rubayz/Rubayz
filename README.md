@@ -2,14 +2,14 @@
 <img src="./header.png">
 <h3>I am Muhammad Aaraf Rubayz. I am 13 years old and having a greater experience everyday!🙂. I read in Chattogram Cantonment Public College(CCPC).</h3>
 <h4>
-- 🔭 I’m currently working on ...<br>
-- 🌱 I’m currently learning ...<br>
-- 👯 I’m looking to collaborate on ...<br>
-- 🤔 I’m looking for help with ...<br>
-- 💬 Ask me about ...<br><br>
-- 📫 How to reach me: ...<br>
-- 😄 Pronouns: ...<br>
-- ⚡ Fun fact: ...<br>
+- 🔭 I’m currently working as a student in a school.<br>
+- 🌱 I’m currently learning on React, js library.<br>
+- 👯 I’m looking to collaborate on Passionway project and Programmer's Cafeteria<br>
+- 🤔 I’m looking for help with App Development<br>
+- 💬 Ask me about anything about programming(Will try to answer)<br>
+- 📫 How to reach me: 📫 = rubayzaf2007@gmail.com<br>
+- 😄 Pronouns: He.Him<br>
+- ⚡ Fun fact: I am childish!<br>
  </h4>
   <h1>🛠️ Technolgies & Tools</h1>
   <h2>Text Editors and IDEs</h2>
