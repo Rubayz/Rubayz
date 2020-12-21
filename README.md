@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media1.tenor.com/images/f38bd4f0ae23b4d7d594c388ab4f09ed/tenor.gif?itemid=12359359" width="30px">
 <img src="./header.png">
-<h2>I am Muhammad Aaraf Rubayz. I am 13 years old and having a greater experience everyday!🙂. I am learning web development in the intermediate level. I also know python and c++ basics. I am currently looking for someone friendly and have a great experience in coding.
-  I also want to know about Robotics🤖. So, I participated in an Arduino workshop and learnt some basics too! Working on web development with studies ahead.👨‍🎓. </h2>
+<h3>I am Muhammad Aaraf Rubayz. I am 13 years old and having a greater experience everyday!🙂. I am learning web development in the intermediate level. I also know python and c++ basics. I am currently looking for someone friendly and have a great experience in coding.
+  I also want to know about Robotics🤖. So, I participated in an Arduino workshop and learnt some basics too! Working on web development with studies ahead.👨‍🎓. </h3>
   <h1>🛠️ Technolgies & Tools</h1>
   <img src="https://img.shields.io/badge/test-TEST-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA">
   <h1>📈 Github Stats</h1>
