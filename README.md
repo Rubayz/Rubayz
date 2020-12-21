@@ -1,9 +1,11 @@
 ### Hi there <img src="https://media1.tenor.com/images/f38bd4f0ae23b4d7d594c388ab4f09ed/tenor.gif?itemid=12359359" width="30px">
 <img src="./header.png">
+<h2>I am Muhammad Aaraf Rubayz. I am 13 years old and having a greater experience everyday!🙂. I am learning web development in the intermediate level. I also know python and c++ basics. I am currently looking for someone friendly and have a great experience in coding.
+  I also want to know about Robotics🤖. So, I participated in an Arduino worksho and learnt some basics too! Working on web development with studies ahead.👨‍🎓. 
 <!--
 **Rubayz/Rubayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
