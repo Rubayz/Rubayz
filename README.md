@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media1.tenor.com/images/f38bd4f0ae23b4d7d594c388ab4f09ed/tenor.gif?itemid=12359359" width="30px">
-
+<img src="./header.png">
 <!--
 **Rubayz/Rubayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
