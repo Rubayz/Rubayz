@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Editor-VS Code-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA">
   <img src="https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA">
   <img src="https://img.shields.io/badge/Editor-Sublime Text-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA">
-  <img src="https://img.shields.io/badge/IDE-Pychar-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA">
+  <img src="https://img.shields.io/badge/IDE-Pycharm-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA">
   <img src="https://img.shields.io/badge/IDE-Webstorm-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA">
   <img src="https://img.shields.io/badge/IDE-Intellij-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA">
   <h1>📈 Github Stats</h1>
