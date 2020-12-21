@@ -4,7 +4,7 @@
   I also want to know about Robotics🤖. So, I participated in an Arduino workshop and learnt some basics too! Working on web development with studies ahead.👨‍🎓. </h2>
   <h1>📈 Github Stats</h1>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubayz&theme=dark" />
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=rubayz&theme=dark">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=rubayz&theme=onedark">
 <!--
 **Rubayz/Rubayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
