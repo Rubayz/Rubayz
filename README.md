@@ -29,6 +29,7 @@
   <h1>📈 Github Stats</h1>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubayz&theme=radical" />
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rubayz&theme=onedark">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rubayz&theme=slateorange">
 <!--
 **Rubayz/Rubayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
